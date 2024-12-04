@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["💎 Khách Hàng Là Thượng Đế", "🤑 Giá Cả Hợp Lý", "⌛️ Phục Vụ & Hỗ Trợ 24/7"];
-const statusTypes = [ 'idle', 'idle'];
+const statusTypes = [ 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
